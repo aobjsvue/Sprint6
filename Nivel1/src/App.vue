@@ -1,4 +1,3 @@
-<!-- npm run dev -->
 <script>
   import Home from './components/Home.vue';
 
